@@ -6,6 +6,16 @@ Turns an Assetto Corsa car mod (`.zip`) into a cinematic **9:16 / 16:9 / 1:1** s
 
 See [`pipeline/README.md`](pipeline/README.md) for full usage and options.
 
+## Demo
+Rendered entirely by this pipeline (click to watch on YouTube):
+
+<p>
+  <a href="https://www.youtube.com/shorts/YT2w-YXOxXU"><img src="https://i.ytimg.com/vi/YT2w-YXOxXU/hqdefault.jpg" alt="Agera RSR reveal" width="360"></a>
+  <a href="https://www.youtube.com/shorts/LQTHduKh8Yk"><img src="https://i.ytimg.com/vi/LQTHduKh8Yk/hqdefault.jpg" alt="Volvo Cyberpunk reveal" width="360"></a>
+</p>
+
+**Agera RSR reveal** · **Volvo 850R cyberpunk reveal**
+
 ## Files
 | File | Purpose |
 |---|---|
